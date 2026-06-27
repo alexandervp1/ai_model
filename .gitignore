@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore models and checkpoints
+
+/checkpoints/
+/models/
+.cache/

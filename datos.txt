@@ -1,0 +1,8 @@
+<|endoftext|>### Componente: CPU
+Resumen: Es el cerebro de la computadora. Se encarga de ejecutar las instrucciones de los programas y procesar los datos realizando calculos matematicos fundamentales.
+<|endoftext|>### Componente: Memoria RAM
+Resumen: Es la memoria de acceso rapido. Guarda temporalmente los datos de los programas que estas usando en el momento para que el procesador acceda a ellos de inmediato.
+<|endoftext|>### Componente: Disco Duro o SSD
+Resumen: Es el almacenamiento permanente. Guarda el sistema operativo, los programas y todos tus archivos incluso cuando la computadora esta apagada.
+<|endoftext|>### Componente: Tarjeta Grafica o GPU
+Resumen: Es el componente especializado en el procesamiento de imagenes, video y graficos 3D. Alivia la carga de trabajo del procesador principal en juegos y diseño.
