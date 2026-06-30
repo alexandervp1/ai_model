@@ -38,7 +38,7 @@ class DatasetComputadoras(Dataset):
         return self.input_ids[idx], self.attention_masks[idx]
 
 # Cargamos los datos en lotes pequeños (Batch Size = 1) para no saturar tu RAM
-dataset = DatasetComputadoras("datos.txt", tokenizer)
+dataset = DatasetComputadoras("data.txt", tokenizer)
 dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
 
 # 3. OPTIMIZADOR
